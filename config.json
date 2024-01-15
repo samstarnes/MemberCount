@@ -1,0 +1,6 @@
+{
+  "token": "replace_with_discord_bot_token",
+  "prefix": "``",
+  "mongoPath": "",
+  "redisPath": ""
+}
